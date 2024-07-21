@@ -1,37 +1,32 @@
 [
   {
     "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "name": "GitHub加速",
+    "link": "https://git.8374902.xyz/"
+  },
+    {
+    "icon": "Book",
+    "name": "docker加速",
+    "link": "https://docker.8374902.xyz/"
+  },
+    {
+    "icon": "CompactDisc",
+    "name": "ChatGPT",
+    "link": "https://gpt.8374902.xyz/"
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
-  },
-  {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "name": "图床",
+    "link": "https://png.8374902.xyz/"
   },
   {
     "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
-  },
-  {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
-  },
-  {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "name": "QQ代挂",
+    "link": "https://xylls.cxncp.net/"
   },
   {
     "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "name": "流量卡",
+    "link": "https://mall.51haoka.shop/index?k=d2I3dEVteG50RWM9"
   }
 ]
